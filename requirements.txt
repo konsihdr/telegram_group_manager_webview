@@ -1,0 +1,6 @@
+-i https://pypi.org/simple
+sqlalchemy==2.0.23
+tzlocal==5.2 ; python_version >= '3.8'
+flask==3.0.0
+flask-cors==4.0.1
+gunicorn==22.0.0
